@@ -28,7 +28,7 @@ Please update your forks to point to this repo.  This will ensure your commits a
 git remote set-url origin https://github.com/conductor-oss/conductor
 ```
 > [!IMPORTANT]  
-> **Follow the steps below if you have an active PR againt the Netflix/Conductor repository**
+> **Follow the steps below if you have an active PR against the Netflix/Conductor repository**
 > 1. Fork **this** repository
 > 2. Update your local repository to change the remote to this repository
 > 3. Send a PR against the `main` branch
@@ -36,13 +36,13 @@ git remote set-url origin https://github.com/conductor-oss/conductor
 ## Releases
 The latest version is [![Github release](https://img.shields.io/github/v/release/conductor-oss/conductor.svg)](https://GitHub.com/conductor-oss/conductor/releases)
 
-The next scheduled release is in Jan 2024.
+The next scheduled release is in Feb 2024.
 
 ## Resources
 #### [Slack Community](https://join.slack.com/t/orkes-conductor/shared_invite/zt-xyxqyseb-YZ3hwwAgHJH97bsrYRnSZg)
 We have an active [community](https://join.slack.com/t/orkes-conductor/shared_invite/zt-xyxqyseb-YZ3hwwAgHJH97bsrYRnSZg) of Conductor users and contributors on the channel.
-#### [Documentation Site](https://orkes.io/content)
-[Documentation](https://orkes.io/content) and tutorial on how to use Conductor
+#### [Documentation Site](https://docs.conductor-oss.org/)
+[Documentation](https://docs.conductor-oss.org/) and tutorial on how to use Conductor
 
 [Discussion Forum](https://github.com/conductor-oss/conductor/discussions): Please use the forum for questions and discussing ideas and join the community.
 
